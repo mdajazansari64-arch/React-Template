@@ -15,6 +15,7 @@ function Temp() {
                 <p><strong>Name:</strong> Md Ajaz Ansari</p>
                 <p><strong>Course:</strong> React + Git + GitHub + Jenkins</p>
                 <p><strong>Goal:</strong> Become a DevOps Engineer</p>
+                <p><strong>Duration</strong>4 Months</p>
 
                 <button>Contact Me</button>
             </main>
