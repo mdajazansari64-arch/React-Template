@@ -16,7 +16,7 @@ function Temp() {
                 <p><strong>Course:</strong> React + Git + GitHub + Jenkins</p>
                 <p><strong>Goal:</strong> Become a DevOps Engineer</p>
                 <p><strong>Duration</strong>4 Months</p>
-                <p><strong>ngrok is working</strong></p>
+                <p><strong>Check ngrok is working</strong></p>
 
                 <button>Contact Me</button>
             </main>
