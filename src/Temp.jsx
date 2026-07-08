@@ -23,6 +23,7 @@ function Temp() {
 
             <footer className="footer">
                 <p>© 2026 | Created by Md Ajaz Ansari</p>
+                <p>For More information Contact Me : <strong>984763492</strong></p>
             </footer>
 
         </div>
