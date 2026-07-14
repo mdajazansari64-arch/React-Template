@@ -18,6 +18,7 @@ function Temp() {
                 <p><strong>Duration</strong>4 Months</p>
                 <p><strong>Check ngrok is working</strong></p>
                 <p><strong>yes ngrok is working</strong></p>
+                <p>Check Poll SCM is Working OR Not</p>
 
                 <button>Contact Me</button>
             </main>
