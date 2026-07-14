@@ -19,6 +19,7 @@ function Temp() {
                 <p><strong>Check ngrok is working</strong></p>
                 <p><strong>yes ngrok is working</strong></p>
                 <p>Check Poll SCM is Working OR Not</p>
+                <p>Yes Its Working</p>
 
                 <button>Contact Me</button>
             </main>
